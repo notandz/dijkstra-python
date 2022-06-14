@@ -9,7 +9,7 @@
 <a href="#"><img title="DABONK-BOT" src="https://img.shields.io/badge/Dijkstra Algorythm-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/notandz"><img title="Author" src="https://img.shields.io/badge/Author-notandz-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/notandz"><img title="Author" src="https://img.shields.io/badge/Author-Ananda Putra-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ditinggalrabi/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
