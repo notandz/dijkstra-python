@@ -1,6 +1,6 @@
 
 <h1 align="center"># DIJKSTRA PYTHON</h1>
-<h1 align="center"># MATEMATIKA DISKRIT 2.</h1>
+<h1 align="center"># MATEMATIKA DISKRIT 2</h1>
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/89618518?v=4" width="130" height="130"/>
